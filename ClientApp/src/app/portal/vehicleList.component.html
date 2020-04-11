@@ -1,0 +1,27 @@
+<!--<div *ngIf="vehicles?.length > 0; else nodata" class="">-->
+  <div class="p-2">
+    <table class="table table-sm table-striped table-bordered table-hover">
+      <tr class="thead-dark">
+        <th>Dealer Number</th>
+        <th>Customer Name</th>
+        <th>Dealership Name</th>
+        <th>Vehicle</th>
+        <th>Price</th>
+        <th>Date</th>
+      </tr>
+      <tbody>
+        <tr *ngFor="let vehicle of vehicles">
+          <td>{{vehicle.dealNum}}</td>
+          <td>{{vehicle.customerName}}</td>
+          <td>{{vehicle.dealershipName}}</td>
+          <td>{{vehicle.vehicleName}}</td>
+          <td>{{vehicle.price | cusCurrencyPipe |  currency:'CAD':'CAD$' }}</td>
+          <td>{{vehicle.saleDate}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+<!--</div>
+<ng-template #nodata>
+  <h4 class="m-2">Waiting for data...</h4>
+</ng-template>-->

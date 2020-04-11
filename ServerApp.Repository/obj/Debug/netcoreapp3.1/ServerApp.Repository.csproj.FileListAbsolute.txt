@@ -1,0 +1,12 @@
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\bin\Debug\netcoreapp3.1\ServerApp.Repository.deps.json
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\bin\Debug\netcoreapp3.1\ServerApp.Repository.dll
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\bin\Debug\netcoreapp3.1\ServerApp.Repository.pdb
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\bin\Debug\netcoreapp3.1\ServerApp.Models.dll
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\bin\Debug\netcoreapp3.1\ServerApp.Models.pdb
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\obj\Debug\netcoreapp3.1\ServerApp.Repository.csprojAssemblyReference.cache
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\obj\Debug\netcoreapp3.1\ServerApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\obj\Debug\netcoreapp3.1\ServerApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\obj\Debug\netcoreapp3.1\ServerApp.Repository.AssemblyInfo.cs
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\obj\Debug\netcoreapp3.1\ServerApp.Repository.csproj.CopyComplete
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\obj\Debug\netcoreapp3.1\ServerApp.Repository.dll
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Repository\obj\Debug\netcoreapp3.1\ServerApp.Repository.pdb

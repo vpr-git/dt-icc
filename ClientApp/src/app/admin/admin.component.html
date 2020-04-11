@@ -1,0 +1,30 @@
+<div class="navbar bg-info mb-1">
+  <a class="navbar-brand text-white">Vehicle Information Admin Portal</a>
+  <div class="float-right navbar-text">
+    <button class="btn btn-sm btn-warning" (click)="authService.logout()">
+      Log Out
+    </button>
+  </div>
+</div>
+
+<div class="col-2 fixed-bottom mb-1">
+  <a class="btn btn-block btn-secondary" routerLink="/portal">
+    Vehicle Information Portal
+  </a>
+</div>
+
+<div class="row no-gutters">
+  <div class="col-2">
+    <button class="btn btn-block btn-outline-info m-1" routerLink="/admin"
+            routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+      Upload File
+    </button>
+    <button class="btn btn-block btn-outline-info m-1" routerLink="/admin/users"
+            routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}">
+      Create Users
+    </button>
+  </div>
+  <div class="col p-2">
+    <router-outlet></router-outlet>
+  </div>
+</div>

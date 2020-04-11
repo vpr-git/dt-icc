@@ -1,0 +1,9 @@
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\bin\Debug\netcoreapp3.1\ServerApp.Models.deps.json
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\bin\Debug\netcoreapp3.1\ServerApp.Models.dll
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\bin\Debug\netcoreapp3.1\ServerApp.Models.pdb
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\obj\Debug\netcoreapp3.1\ServerApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\obj\Debug\netcoreapp3.1\ServerApp.Models.AssemblyInfoInputs.cache
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\obj\Debug\netcoreapp3.1\ServerApp.Models.AssemblyInfo.cs
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\obj\Debug\netcoreapp3.1\ServerApp.Models.dll
+C:\Users\Neetha\source\repos\DealerTrack\ServerApp.Models\obj\Debug\netcoreapp3.1\ServerApp.Models.pdb
+C:\Users\Neetha\source\repos\dealertrack\ServerApp.Models\obj\Debug\netcoreapp3.1\ServerApp.Models.csprojAssemblyReference.cache

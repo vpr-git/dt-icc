@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ClientApp",
+    "\\ClientApp\\src",
+    "\\ClientApp\\src\\app",
+    "\\ServerApp"
+  ],
+  "SelectedNode": "\\ServerApp\\global.json",
+  "PreviewInSolutionExplorer": false
+}
