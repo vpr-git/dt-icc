@@ -6,6 +6,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { PortalModule } from './portal/portal.module';
 
+
 @NgModule({
   declarations: [
     AppComponent
@@ -16,7 +17,7 @@ import { PortalModule } from './portal/portal.module';
     ModelModule,
     FormsModule,
     ReactiveFormsModule,
-    PortalModule      
+    PortalModule
   ],
   providers: [],
   bootstrap: [AppComponent]

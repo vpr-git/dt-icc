@@ -16,8 +16,7 @@ export class AuthenticationService {
     this.authenticated = false;
     return this.repo.login(this.name, this.password).pipe(
       map(response => {
-        alert(response);
-        if (response) {
+         if (response) {
          
           this.authenticated = true;
           this.password = null;
@@ -38,7 +37,7 @@ export class AuthenticationService {
     this.name = "";
     this.password = "";
     this.repo.logout();
-    this.router.navigateByUrl("/admin/login");
+    this.router.navigateByUrl("/");
   }
 
 }

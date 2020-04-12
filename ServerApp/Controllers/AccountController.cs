@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace ServerApp.Controllers
 {
+    [AutoValidateAntiforgeryToken]
     public class AccountController:Controller
     {
         private UserManager<IdentityUser> userManager;

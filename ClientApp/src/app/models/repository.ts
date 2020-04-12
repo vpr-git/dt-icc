@@ -26,11 +26,9 @@ export class Repository {
   getVehicles() {
 
     let url = `${vehicelsURL}`;
-    alert(this.filter.category);
-    if (this.filter.category) {
+     if (this.filter.category) {
       url += `?category=${this.filter.category}`;
-    }
-    
+    }    
     url += "&metadata=true";
     this.http.get<vehiclesMetadata>(url)
       .subscribe(response => { this.vehicles = response.data; this.categories = response.categories });
@@ -38,7 +36,6 @@ export class Repository {
 
 
   login(name: string, password: string): Observable<boolean> {
-    alert(name + ":" + password);
     return this.http.post<boolean>("/api/account/login", { name: name, password: password });
     
   }
